@@ -1,0 +1,10 @@
+
+#yelp{
+  display: flex;
+  flex-direction: column;
+}
+
+#ReviewsService {
+  margin: auto;
+  padding-top:1000px
+}
