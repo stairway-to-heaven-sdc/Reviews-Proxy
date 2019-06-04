@@ -1,13 +1,11 @@
 # Project Name
 
-> Project description
+> Proxy server
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/3-body-problem/CL_yelp_bizphoto_service
+  - https://github.com/3-body-problem/NickRashad_FEC
 
 ## Table of Contents
 
@@ -17,13 +15,13 @@
 
 ## Usage
 
-> Some usage instructions
+> npm start
 
 ## Requirements
 
 An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
-- Node 6.13.0
+- Node 10.13.0
 - etc
 
 ## Development

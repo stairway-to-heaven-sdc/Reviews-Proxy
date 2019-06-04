@@ -1,11 +1,9 @@
 {
   "name": "proxy",
-  "version": "",
-  "description": "",
-  "author": "",
-  "license": "",
+  "author": "hibow",
+  "license": "ISC",
   "engines": {
-    "node": ">=6.13.0"
+    "node": ">=10.13.0"
   },
   "scripts": {
     "start": "nodemon server/server.js"
