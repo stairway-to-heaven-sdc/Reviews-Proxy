@@ -11,6 +11,7 @@ app.use(morgan('dev'));
 app.use(cors());
 app.use('/bizs/:bId', express.static(`${__dirname}/../public`));
 app.use(express.static(`${__dirname}/../public`));
+
 /**biz service */
 app.use('/biz', proxy({ target: process.env.Biz, changeOrigin: true }));
 /**photo service */
